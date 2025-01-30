@@ -147,7 +147,6 @@ function cambioColor6(){
     }else{
         document.getElementById("c6").style.backgroundColor = "burlywood";
     }
-
 }
 
 document.getElementById("b1").addEventListener("click", tiempoAccion6);
